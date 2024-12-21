@@ -692,4 +692,8 @@ body {
     html {
         font-size: 0.3px;
     }
+
+    .nav-bar img {
+        height: 100rem;
+    }
 }
