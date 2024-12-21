@@ -690,7 +690,12 @@ body {
 
 @media (max-width: 768px) {
     html {
-        font-size: 0.3px;
+        font-size: 0.35px;
+    }
+    body {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
     }
 
     .nav-bar img {
